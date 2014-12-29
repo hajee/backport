@@ -1,0 +1,14 @@
+{
+  "name": "hajee-backport",
+  "version": "0.0.1",
+  "author": "hajee",
+  "summary": "A backport of some Puppet 3.7 functions",
+  "license": "Apache 2.0",
+  "source": "https://www.github.com/hajee/backport",
+  "project_page": "https://www.github.com/hajee/backport",
+  "issues_url": "https://www.github.com/hajee/backport/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
