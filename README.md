@@ -38,8 +38,7 @@ $ puppet module install hajee/backport
 
 ## Usage
 
-Put the classes, types, and resources for customizing, configuring, and doing
-the fancy stuff with your module here.
+Check the puppet 3.7 documentation for use of the `assert_type` function. To use this function on Puppet 3.6, you **MUST** use the future parser
 
 ## Reference
 
